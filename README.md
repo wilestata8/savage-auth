@@ -1,3 +1,7 @@
+## 21 Savage Fan Site
+
+<img src= "snap.jpg" width =80%>
+
 ## Installation
 
 1. Clone repo
